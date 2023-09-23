@@ -1,0 +1,16 @@
+{
+  "Embed": {
+    "Author": {
+      "Username": "Pokemon Go Version Monitor",
+      "AvatarUrl": "https://w7.pngwing.com/pngs/652/369/png-transparent-pokemon-go-computer-icons-raid-niantic-pokemongo-video-game-boss-pokemon.png"
+    },
+    "Title": "Pokemon Go Version Forced!",
+    "PreviousVersion": "Previous",
+    "LatestVersion": "Latest",
+    "RevertVersion": "Previous Version Reverted!",
+    "Footer": {
+      "Latest": "LATEST API VERSION",
+      "NewRelease": "NEW POGO API RELEASED"
+    }
+  }
+}
