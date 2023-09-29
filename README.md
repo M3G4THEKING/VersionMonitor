@@ -11,7 +11,7 @@ Monitors version releases for Pokemon Go via Niantic's forced versioning of the 
 - Samsung Galaxy Store  
 
 ## Prerequisites
-- [Node.js v16 or higher](https://nodejs.org/en/download)  
+- [Node.js v18 or higher](https://nodejs.org/en/download)  
 
 ## Installation  
 1. Clone repository: `git clone https://github.com/versx/VersionMonitor`  
