@@ -11,7 +11,7 @@
     "author": "versx",
     "license": "ISC",
     "dependencies": {
-        "@types/node": "^18.19.44"
+        "@types/node": "^18.19.47"
     },
     "devDependencies": {
         "typescript": "^4.8.2"
